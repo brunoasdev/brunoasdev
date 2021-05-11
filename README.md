@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bruno-almeida-silva
-- 👀 I’m interested in interested in web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Java, Microservices, RESTFul, Docker, Kubernetes, Rancher, SQL, No-SQL, Angular 2+, graphics and reports
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: https://www.linkedin.com/in/bruno-de-almeida-silva & https://hub.docker.com/u/balmeida80
